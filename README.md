@@ -1,7 +1,7 @@
 Dispensador para mascotas.
 
 
-Dispensador de comida para mascotas utilizando flutter y arduino.
+Dispensador de comida para mascotas utilizando flutter, arduino y bluetooth.
 
 Lista de requerimientos para el programa arduino.
 
