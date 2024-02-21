@@ -1,15 +1,16 @@
-Dispensador para mascotas.
+A new Flutter application for android The app is capable to connect with arduio through 
+Bluetooth and send commands (amount of food) associated with a scheduled time from the flutter app
 
+Pet dispenser
 
-Dispensador de comida para mascotas utilizando flutter, arduino y bluetooth.
+Pet food dispenser using flutter, arduino and bluetooth.
 
-Lista de requerimientos para el programa arduino.
+List of requirements for the arduino program.
 
-. Microcontrolador (esp, arduino board, etc).
+. Microcontroller (esp, arduino board, etc).
 
-. Modulo RTC independiente.
+. Independent RTC module.
 
-. Controlador motor paso a paso.
+. Stepper motor driver.
 
-. Motor paso a paso.
-
+. Stepper motor.
